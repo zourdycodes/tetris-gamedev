@@ -1,0 +1,8 @@
+canvas {
+        border: 1px solid #000;
+        display: flex;
+        position: absolute;
+        top: 50%;
+        right: 50%;
+        transform: translate(50%, -50%);
+      }

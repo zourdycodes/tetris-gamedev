@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>#score {
+        display: inline-block;
+      }
+      div {
+        font-size: 25px;
+        font-weight: bold;
+        font-family: monospace;
+        text-align: center;
+      }
+      canvas {
+        display: block;
+        margin: 0 auto;
+      }
+</style>
+  </head>
+  <body>
+    <div>
+      This Game Was Created By
+      <a target="_blank" href="https://www.youtube.com/c/codeexplained">Code Explained</a>
+    </div>
+    <br>
+    <canvas id="tetris" width="200" height="400"></canvas>
+    <div>
+      Score :
+      <div id="score">0</div>
+    </div>
+    <script src="/index.HASH_REF_85d84d5299283b1d0e58006761f3cfd8.js"></script>
+    <script src="/index.HASH_REF_d8c7c0e5b5c9bcc0d173e93eb7674786.js"></script>
+  </body>
+</html>

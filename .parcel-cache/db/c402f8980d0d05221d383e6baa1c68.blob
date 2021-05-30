@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style data-parcel-key="1131973911769f7a3f0eeb88c10f3256">
+      #score {
+        display: inline-block;
+      }
+      div {
+        font-size: 25px;
+        font-weight: bold;
+        font-family: monospace;
+        text-align: center;
+      }
+      canvas {
+        display: block;
+        margin: 0 auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      This Game Was Created By
+      <a target="_blank" href="69075b8fec9541ba663f466d3939cabd">Code Explained</a>
+    </div>
+    <br>
+    <canvas id="tetris" width="200" height="400"></canvas>
+    <div>
+      Score :
+      <div id="score">0</div>
+    </div>
+    <script src="2cec388046fdf8220b468c0c0e5c9eea"></script>
+    <script src="4784e69bb379754dfdab984282f0f789"></script>
+  </body>
+</html>

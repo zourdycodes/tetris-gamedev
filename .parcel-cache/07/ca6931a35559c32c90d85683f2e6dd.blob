@@ -1,0 +1,2 @@
+const cvs = document.getElementById("tetris");
+cvs.getContext();
